@@ -15,3 +15,6 @@ Basics
    usage.rst
    credit.rst
    exercises.rst
+   install.md
+   test.rst
+   test2.md
