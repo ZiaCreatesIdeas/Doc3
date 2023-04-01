@@ -32,7 +32,8 @@ sys.path.insert(0, os.path.abspath('../source'))
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 
-extensions = ['sphinx.ext.autodoc']
+extensions = ['sphinx.ext.autodoc',
+              'myst_parser']
 
 # Enable code-fence support
 # myst_enable_extensions = ["dollarmath", "colon_fence"]
