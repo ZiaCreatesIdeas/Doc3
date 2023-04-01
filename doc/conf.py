@@ -171,5 +171,6 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
+needs_sphinx = '3.0'
 
 
