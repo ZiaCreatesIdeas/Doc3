@@ -40,7 +40,7 @@ extensions = ['sphinx.ext.autodoc',
                             ]
 
 # Enable code-fence support
-myst_enable_extensions = ["dollarmath", "colon_fence"]
+# myst_enable_extensions = ["dollarmath", "colon_fence"]
 
 
 # Add any paths that contain templates here, relative to this directory.
