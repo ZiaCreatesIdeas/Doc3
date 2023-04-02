@@ -20,3 +20,4 @@ Basics
    install.md
    test.rst
    test2.md
+   test3.md
