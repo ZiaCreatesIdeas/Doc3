@@ -33,7 +33,8 @@ sys.path.insert(0, os.path.abspath('../source'))
 # ones.
 
 extensions = ['sphinx.ext.autodoc',
-              'myst_parser']
+              'myst_parser',
+              'sphinx_codefence']
 
 # Enable code-fence support
 # myst_enable_extensions = ["dollarmath", "colon_fence"]
