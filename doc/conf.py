@@ -36,6 +36,9 @@ extensions = ['sphinx.ext.autodoc',
               'myst_parser',
               'sphinx_codefence']
 
+myst_enable_extensions = ['colon_fence']
+
+
 # Enable code-fence support
 # myst_enable_extensions = ["dollarmath", "colon_fence"]
 
