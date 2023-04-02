@@ -39,7 +39,7 @@ extensions = ['sphinx.ext.autodoc',
 # myst_enable_extensions = ['colon_fence']
 
 myst_enable_extensions = [
-  "colon_fence",
+  'colon_fence',
 
 ]
 
